@@ -30,5 +30,5 @@ for _ in range(NUMBER_OF_LINKS_TO_GENERATE):
     if URL_AUTO_OPEN is True:
         webbrowser.open(URL)
 
-if CLOSE_WINDOW_AFTER:
+if not CLOSE_WINDOW_AFTER:
     input('\nPress Enter to Exit...')
