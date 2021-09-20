@@ -6,11 +6,11 @@
 prnt.sc is a web frontend for third-party screenshot software that automatically uploads the user's screenshot and returns a url of the image to the clipboard
 so that users can share their screenshot with others via the url.
 
-This is a generator that uses the url scheme to randomly search the uploaded images.
+This is a generator that uses the url scheme to randomly search through the uploaded images.
 
 ## Requirements / Install
 - Python 3 required
-- No additional Modules required, only Built-ins are used
+- No additional Modules required, only Built-ins are used.
 
 ## Usage
 1. Set the 3 Variables in the Script to your desired State:
