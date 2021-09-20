@@ -7,4 +7,5 @@ steps:
     image: python:3.8-alpine
     pull: if-not-exists
     commands:
+      - chmod +x prnt.sc_link_generator.py
       - ./prnt.sc_link_generator.py
