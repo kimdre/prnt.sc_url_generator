@@ -5,11 +5,11 @@ import string
 import webbrowser
 
 """
-prnt.sc is a web frontend for a third-party screenshot software
-that automatically uploads the users screenshot and returns a url to the image to the clipboard
-so that users can share their screenshot via the url with other people
+prnt.sc is a web frontend for third-party screenshot software
+that automatically uploads the user's screenshot and returns a url of the image to the clipboard
+so that users can share their screenshot with others via the url.
 
-This is a url generator that takes advantage of the url scheme to search randomly through the uploaded images
+This is a generator that uses the url scheme to randomly search the uploaded images.
 """
 
 NUMBER_OF_LINKS_TO_GENERATE = 5  # generates X urls at a time
