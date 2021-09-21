@@ -21,4 +21,4 @@ This is a generator that uses the url scheme to randomly search through the uplo
 3. Have fun searching through random screenshots
 
 ## Credits
-Repo Icon made by <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+Repo Icon made by [DinosoftLabs](https://www.flaticon.com/authors/dinosoftlabs "DinosoftLabs") from [www.flaticon.com](https://www.flaticon.com/ "Flaticon")
