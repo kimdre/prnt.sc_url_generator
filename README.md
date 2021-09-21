@@ -2,7 +2,7 @@
 
 [![Build Status](https://drone.pyas.de/api/badges/Kim/prnt.sc_url_generator/status.svg)](https://drone.pyas.de/Kim/prnt.sc_url_generator)
 
-## Info
+## About
 prnt.sc is a web frontend for third-party screenshot software that automatically uploads the user's screenshot and returns a url of the image to the clipboard
 so that users can share their screenshot with others via the url.
 
@@ -19,3 +19,6 @@ This is a generator that uses the url scheme to randomly search through the uplo
    - CLOSE_WINDOW_AFTER: If set to True the Python Window (if run in an Desktop Environment) won't close after the Script ends (keeps open to see/copy the original url)
 2. Run the Script
 3. Have fun searching through random screenshots
+
+## Credits
+Repo Icons made by <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
