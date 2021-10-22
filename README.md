@@ -3,8 +3,7 @@
 [![Build Status](https://drone.pyas.de/api/badges/Kim/prnt.sc_url_generator/status.svg)](https://drone.pyas.de/Kim/prnt.sc_url_generator)
 
 ## About
-prnt.sc is a web frontend for third-party screenshot software that automatically uploads the user's screenshot and returns a url of the image to the clipboard
-so that users can share their screenshot with others via the url.
+prnt.sc is a web frontend for third-party screenshot software that automatically uploads the user's screenshot and returns a url of the image to the clipboard so that users can share their screenshot with others via the url.
 
 This is a generator that uses the url scheme to randomly search through the uploaded images.
 
