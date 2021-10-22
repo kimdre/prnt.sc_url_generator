@@ -8,6 +8,8 @@ so that users can share their screenshot with others via the url.
 
 This is a generator that uses the url scheme to randomly search through the uploaded images.
 
+[Also available as Gist.](https://gist.github.com/kimdre/664f29b7556cb4c26a89315761e6c55d)
+
 ## Requirements / Install
 - Python 3 required
 - No additional Modules required, only Built-ins are used.
