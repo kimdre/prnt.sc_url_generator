@@ -1,6 +1,6 @@
 # prnt.sc Link Generator
 
-[![Build Status](https://drone.pyas.de/api/badges/Kim/prnt.sc_url_generator/status.svg)](https://drone.pyas.de/Gist/prnt.sc_url_generator)
+[![Build Status](https://drone.pyas.de/api/badges/Kim/prnt.sc_url_generator/status.svg)](https://drone.pyas.de/Kim/prnt.sc_url_generator)
 
 ## Info
 
