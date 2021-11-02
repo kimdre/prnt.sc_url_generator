@@ -28,8 +28,11 @@ def generate_url(base_url: str = 'https://prnt.sc/'):
 
 for _ in range(NUMBER_OF_LINKS_TO_GENERATE):
     URL = generate_url()
-    print(URL)
-    if URL_AUTO_OPEN is True:
+
+    if not CLOSE_WINDOW_AFTER:
+        print(URL)
+
+    if URL_AUTO_OPEN:
         webbrowser.open(URL)
 
 if not CLOSE_WINDOW_AFTER:
